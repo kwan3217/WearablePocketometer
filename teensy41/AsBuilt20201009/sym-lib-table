@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name KwanSystems)(type Legacy)(uri ${KIPRJMOD}/KwanSystems.lib)(options "")(descr ""))
+)
